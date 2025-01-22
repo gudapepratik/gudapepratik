@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+## 📊 GitHub Stats:
+
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudapepratik&show_icons=true&theme=radical)
+
 
 ## 📫 Connect with Me
 
