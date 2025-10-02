@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats:
-
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudapepratik&show_icons=true&theme=radical)
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudapepratik)](https://github.com/anuraghazra/github-readme-stats)
+[Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudapepratik&show_icons=true&theme=radical)
 
 
 ## 📫 Connect with Me
