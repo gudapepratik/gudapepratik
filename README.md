@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudapepratik)](https://github.com/anuraghazra/github-readme-stats)
-[Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudapepratik&show_icons=true&theme=radical)
 
 
 ## 📫 Connect with Me
